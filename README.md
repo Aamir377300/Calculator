@@ -1,3 +1,5 @@
+![Calculator App Screenshot](screenshot.png)
+
 Calculator App
 
 
